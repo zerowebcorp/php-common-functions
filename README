@@ -1,0 +1,11 @@
+A list of commonly used and helpful functions
+
+Collected by : Vivek
+Email: vivekv@vivekv.com
+
+====================================================
+
+List of functions
+1. left($string,$count) - To get the required characters from the left
+2. right($string,$count) -  To get the required characters from the left
+
